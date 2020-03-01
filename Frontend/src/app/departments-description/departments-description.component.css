@@ -1,0 +1,28 @@
+.flex-general {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.img-size {
+    width: 80px;
+    height: 80px;
+    border: none;
+    padding: 5px;
+    margin: 10px;
+}
+
+.text-position {
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.link-decoration {
+    text-decoration: none;
+}
